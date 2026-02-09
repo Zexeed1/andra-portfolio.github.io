@@ -91,7 +91,7 @@ Website portfolio ini dideploy menggunakan **GitHub Pages**, sehingga:
 Jika Anda tertarik untuk berdiskusi, bekerja sama, atau memberikan feedback:
 
 - 📧 Email: **andrasurya.100@gmail.com**
-- 🌐 Portfolio: https://zexeed1.github.io/andra-portfolio/
+- 🌐 Portfolio: [https://zexeed1.github.io/andra-portfolio/](https://zexeed1.github.io/andra-portfolio.github.io/)
 - 💻 GitHub: https://github.com/zexeed1
 
 ---
